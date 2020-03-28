@@ -1,11 +1,23 @@
 def second_challenge
   epic_tragedy = {
+    #first_level
     :montague => {
-      #your key/value pairs here!
+      #second_level
+       :patriarch =>{},
+       :matriarch =>{},
+       :hero => {},
+       :hero_friends =>[]
       }, 
+    #first_level
     :capulet => {
-      #your key/value pairs here!
-      }}
+      #second_level
+       :patriarch =>{},
+       :matriarch =>{},
+       :heroine => {},
+       :heroine_friends =>[]
+      }
+    
+  }
 
   
 end
